@@ -1,16 +1,13 @@
 {
-  "type": "module",
-  "name": "kambaz-node-server-app",
+  "name": "kambaz-node-serve-app",
   "version": "1.0.0",
-  "description": "Node.js server",
   "main": "index.js",
   "scripts": {
-    "test": "https://github.com/katiewinkleblack/kambaz-node-serve-app",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katiewinkleblack/kambaz-node-serve-app.git"
+    "url": "git+https://github.com/katiewinkleblack/kambaz-node-server-app_NEW.git"
   },
   "keywords": [
     "Node",
@@ -25,15 +22,8 @@
   "author": "Katie Winkleblack",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katiewinkleblack/kambaz-node-serve-app/issues"
+    "url": "https://github.com/katiewinkleblack/kambaz-node-server-app_NEW/issues"
   },
-  "homepage": "https://github.com/katiewinkleblack/kambaz-node-serve-app#readme",
-  "dependencies": {
-    "axios": "^1.8.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "express-session": "^1.18.1",
-    "uuid": "^11.1.0"
-  }
+  "homepage": "https://github.com/katiewinkleblack/kambaz-node-server-app_NEW#readme",
+  "description": ""
 }
